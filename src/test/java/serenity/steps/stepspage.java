@@ -20,7 +20,7 @@ public class stepspage {
 	    @Then("^verify user login$")
 	    public void verify_user_login() throws Throwable {
 	    	
-	    	
+	    	//test
 	    }
 	
 	
